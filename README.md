@@ -11,7 +11,7 @@ Validates if a car is allowed to transit at peak hours according to the last dig
 
 Install dependencies
 
-`pip install requeriments.txt`
+`pip install -r requirements.txt`
 
 ## How to use
 
